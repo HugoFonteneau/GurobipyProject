@@ -70,7 +70,7 @@ def build_model(images, horizontales, verticales):
 
     model = gp.Model("Diaporama")
 
-    # --- Variables de sélection de slide candidates ---
+    # --- Variables de décision de slide candidates ---
     # Pour une slide candidate s, z[s] = 1 si elle est utilisée.
     # Pour une slide horizontale, z est fixé à 1.
     z = {}
