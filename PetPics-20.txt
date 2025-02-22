@@ -1,0 +1,21 @@
+20
+H 16 tm2 tl2 td4 t6 t82 t52 t86 th5 t44 t47 ts2 tc5 tl5 tc4 tf1 tw3
+V 15 tz2 t56 t42 t47 th5 tx4 tp6 t52 tm2 tw3 tw6 t85 t82 tn6 t87
+H 4 t51 tc4 tb5 t61
+V 13 tq1 tv3 tx1 tn6 t86 tc1 tb7 t72 t52 tw3 tm5 tr5 th4
+H 13 t47 t53 tl5 t85 tn6 tw3 tq2 t32 th2 t8 tz6 t01 tw5
+V 15 t02 tr2 t52 tp6 th5 t37 ts2 tl5 tn3 t44 th4 tv2 tq1 tn6 td
+V 9 tq6 t8 tv4 tz t22 t05 tn6 th4 t87
+V 11 tx tp2 tq6 tc4 t37 tr5 tb7 tl5 t8 t52 th4
+V 5 tl tw3 tp t6 t53
+H 9 th6 tl5 t6 t37 t53 tp6 t02 ts2 t05
+V 12 tb5 t05 tv t02 t12 tm2 t87 t8 tf1 tp6 tx2 tm5
+H 16 tm2 tc4 tn6 t82 tr5 t47 t52 tl2 t6 t05 tq6 tp2 tp t8 tp6 t37
+V 13 tm t85 tw5 th5 tb t86 t05 tc5 tq2 tn3 tr5 t87 tc4
+V 9 t87 t05 tw5 tb th6 t82 tz2 t01 t62
+V 12 tx1 t6 tx4 t52 t31 t86 tw3 th6 tr5 td2 tq2 t44
+V 9 t6 t52 t05 tw5 tz6 tw3 t47 tc1 t34
+V 9 t42 tp2 tw3 t47 tn6 tf1 td1 t52 t85
+V 4 th5 tm2 tw5 t86
+V 8 t82 tp2 tr5 tp tm2 t86 tw6 tl5
+H 16 t87 tx5 tv4 tq6 t9 t01 tb5 tx4 tb7 tf1 tw5 th6 t86 t53 tf tr6
